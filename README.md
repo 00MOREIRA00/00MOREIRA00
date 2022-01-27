@@ -13,6 +13,7 @@
 &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; Certificado Lean Six Sigma -Yellow Belt<br>
 &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; Certificado Cybersecurity Essential<br>
 &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; Certificado IT Essentials<br>
+&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; Certificado UX Designer <br>
  
  
 <!---

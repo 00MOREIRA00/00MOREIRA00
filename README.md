@@ -13,8 +13,8 @@
 &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; Certificado Lean Six Sigma -Yellow Belt<br>
 &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; Certificado Cybersecurity Essential<br>
 &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; Certificado IT Essentials<br>
-&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; Certificado UX Designer <br>
- 
+&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; Certificado UX Designer <br> 
+           Certificado  Scrum  Foundation  <br>
  
 <!---
 Sou um estudante totalmente interessado e com fome de aprender, não me limitando somente aos conteúdos que estão em minha zona de conforto, estou sempre buscando aprender

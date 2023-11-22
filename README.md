@@ -3,7 +3,7 @@
 - 👀 Sou interessado na área de tecnologia por completo 
 - 🌱 Atualmente estou apredendo Java Script
 - 💞️ Estou procurando apredener cada vez mais, procurando sempre evoluir e colaborar o maximo possivel
-- 📫 Posso ser contactado pelo meu e-mail: roberto.neto@unigranrio.br
+- 📫 Posso ser contactado pelo meu e-mail: robertocorreamoreiraneto@gmail.com
 
 <!--Inserindo Estatisticas-->
 <div align="center">

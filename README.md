@@ -1,8 +1,4 @@
 - 👋 Olá, Meu nome é Roberto Neto
-- 🖥 Atualmente sou estágiario da Editora Globo na Equipe de Integração
-- 👀 Sou interessado na área de tecnologia por completo 
-- 🌱 Atualmente estou apredendo Java Script
-- 💞️ Estou procurando apredener cada vez mais, procurando sempre evoluir e colaborar o maximo possivel
 - 📫 Posso ser contactado pelo meu e-mail: robertocorreamoreiraneto@gmail.com
 
 <!--Inserindo Estatisticas-->

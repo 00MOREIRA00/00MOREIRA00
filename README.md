@@ -8,7 +8,7 @@ Bem-vindo ao meu perfil no GitHub! Sou Engenheiro de Software com interesse em c
 
 <div align="center">
   <a href="https://github.com/00MOREIRA00">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=00MOREIRA00&theme=dark&show_icons=true&hide_border=true&count_private=false"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=00MOREIRA00&theme=dark&show_icons=true&hide_border=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=00MOREIRA00&theme=dark&show_icons=true&hide_border=true&layout=compact"/>
   </a>
 </div>

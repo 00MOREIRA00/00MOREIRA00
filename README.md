@@ -30,19 +30,22 @@ Bem-vindo ao meu perfil no GitHub! Sou Engenheiro de Software com interesse em c
 
 Atualmente, estou aprendendo mais sobre Django, FastAPI (para desenvolvimento backend), Docker, Vault, React e Python. Estou me aprofundando nessas tecnologias para aprimorar minhas habilidades no desenvolvimento de aplicações web, automação, gerenciamento de infraestrutura e no desenvolvimento backend.
 
-## Conecte-se comigo 🔍 
+### Contato 
 
-<!--Inserindo Redes Sociais-->           
-<div> 
-  <a href="https://www.instagram.com/studentroberto/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/roberto-neto-5891771b7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+<div>
+  <a href="https://www.instagram.com/studentroberto/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-123845?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/roberto-neto-5891771b7/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-123845?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
 </div>
 
-## Como entrar em contato 📩 
 
+## 
+
+<div align="center">
+  <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=00MOREIRA00&style=flat-square&color=123845" /></p> 
+</div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=838383&section=footer"/>
-
-<br/> 
-
-Se você quiser bater um papo sobre algum projeto, ou discutir novas ideias, fique à vontade para me enviar uma mensagem!

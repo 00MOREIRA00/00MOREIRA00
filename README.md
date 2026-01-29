@@ -17,7 +17,7 @@ Bem-vindo ao meu perfil no GitHub! Sou Engenheiro de Software com interesse em c
 
 <div align="center">
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=00MOREIRA00&bg_color=535353&color=f5f0f0&line=f5f0f0&point=f5f0f0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=00MOREIRA00&bg_color=161616&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 

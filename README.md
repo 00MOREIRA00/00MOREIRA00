@@ -21,14 +21,20 @@ Bem-vindo ao meu perfil no GitHub! Sou Engenheiro de Software com interesse em c
 
 </div>
 
-## 🔧 Tecnologias que eu uso
-<div> <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> <span>HTML</span> <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> <span>CSS</span> <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> <span>JavaScript</span> <img align="center" alt="Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"> <span>Bootstrap</span> <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> <span>Python</span> <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> <span>React</span> <img align="center" alt="Django" height="30" width="40" src="https://icongr.am/devicon/django-original.svg"> <span>Django</span> <img align="center" alt="FastAPI" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg"> <span>FastAPI</span> <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"> <span>Git</span> <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"> <span>Docker</span> <img align="center" alt="GCP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg"> <span>GCP</span> </div>
-
-
-
-## O que estou aprendendo agora 📚
-
-Atualmente, estou aprendendo mais sobre Django, FastAPI (para desenvolvimento backend), Docker, Vault, React e Python. Estou me aprofundando nessas tecnologias para aprimorar minhas habilidades no desenvolvimento de aplicações web, automação, gerenciamento de infraestrutura e no desenvolvimento backend.
+## Minhas Skills
+![HTML5](https://img.shields.io/badge/-HTML5-123845?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-123845?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-123845?style=flat&logo=javascript&logoColor=white)
+![Tailwind%20CSS](https://img.shields.io/badge/-Tailwind%20CSS-123845?style=flat&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-123845?style=flat&logo=bootstrap&logoColor=white)
+![React](https://img.shields.io/badge/-React-123845?style=flat&logo=react&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-123845?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-123845?style=flat&logo=openjdk&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-123845?style=flat&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-123845?style=flat&logo=fastapi&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-123845?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-123845?style=flat&logo=docker&logoColor=white)
+![Google%20Cloud](https://img.shields.io/badge/-Google%20Cloud-123845?style=flat&logo=googlecloud&logoColor=white)
 
 ### Contato 
 

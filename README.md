@@ -1,12 +1,14 @@
-# Olá, sou Roberto Neto 👋
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=838383&section=header"/>
+
+# Hello, I am Roberto Neto
 
 Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por tecnologia e sempre em busca de novos desafios. Aqui você encontrará projetos relacionados a desenvolvimento de software, automação, segurança, infraestrutura e muito mais.
 
 <!--Inserindo Estatisticas-->
 <div align="center">
   <a href="https://github.com/00MOREIRA00">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=00MOREIRA00&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=00MOREIRA00&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=00MOREIRA00&theme=dark&show_icons=true&hide_border=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=00MOREIRA00&theme=dark&show_icons=true&hide_border=true&layout=compact"/>
 </div>
 
 ## 🔧 Tecnologias que eu uso
@@ -27,5 +29,10 @@ Atualmente, estou aprendendo mais sobre Django, FastAPI (para desenvolvimento ba
 </div>
 
 ## Como entrar em contato 📩 
+
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=838383&section=footer"/>
+
+<br/> 
 
 Se você quiser bater um papo sobre algum projeto, ou discutir novas ideias, fique à vontade para me enviar uma mensagem!

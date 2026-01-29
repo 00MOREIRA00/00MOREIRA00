@@ -1,14 +1,24 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=838383&section=header"/>
 
-# Hello, I am Roberto Neto
+# Olá, Eu sou Roberto Neto 👋
 
-Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por tecnologia e sempre em busca de novos desafios. Aqui você encontrará projetos relacionados a desenvolvimento de software, automação, segurança, infraestrutura e muito mais.
+Bem-vindo ao meu perfil no GitHub! Sou Engenheiro de Software com interesse em criar soluções bem arquitetadas e de fácil manutenção. Meu objetivo é compartilhar projetos, estudos e conhecimento adquiridos ao longo da minha jornada, sempre com foco em qualidade, aprendizado contínuo e evolução técnica.
+
+<br/>
 
 <!--Inserindo Estatisticas-->
 <div align="center">
   <a href="https://github.com/00MOREIRA00">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=00MOREIRA00&theme=dark&show_icons=true&hide_border=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=00MOREIRA00&theme=dark&show_icons=true&hide_border=true&layout=compact"/>
+</div>
+
+<br/>
+
+<div align="center">
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=00MOREIRA00&bg_color=535353&color=f5f0f0&line=f5f0f0&point=f5f0f0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 </div>
 
 ## 🔧 Tecnologias que eu uso
